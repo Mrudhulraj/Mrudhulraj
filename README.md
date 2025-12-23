@@ -1,3 +1,4 @@
+<!-- PROJECTS START -->
 ## 👋 Welcome, curious wanderer!
 
 I'm **Mrudhulraj Natarajan**, a software engineer by trade, an existential tinkerer by night.  
@@ -27,6 +28,4 @@ My passion lies in crafting clever systems, solving weird problems, and building
 - Posting this sometime soon
 ---
 
-<!-- 
-✨ This README is a living document. Expect it to evolve.
--->
+<!-- PROJECTS END -->
