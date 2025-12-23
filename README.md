@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Welcome, curious wanderer!
 
-<!--
-**Mrudhulraj/Mrudhulraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mrudhulraj Natarajan**, a software engineer by trade, an existential tinkerer by night.  
+Currently navigating the realms of **C++**, **Go**, **Python**, and building efficient **distributed systems** with **Go** and partly **C++**.  
+My passion lies in crafting clever systems, solving weird problems, and building things that (hopefully) make people think.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🧠 What I'm up to
+- 🎓 Final-year student of Computer Science and a sophmore in the business world  
+- 🔧 Currently refining my C++/Go skills & mastering low-level programming 
+- 🎮 Building distributed systems and databases for the  benefit of the AI world we are heading to.
+---
+
+### 🚀 Projects & Explorations
+- 🧠 A custom Redis server built in C++ with command parsing, data persistence, and RESP protocol handling
+- 🧰 A lightweight Redis client in C++ with interactive CLI and command parsing  
+- 🐚 A custom UNIX shell in C — because reinventing the wheel is a rite of passage  
+- 🌐 A self-built FTP server with multi-threading and RFC959 compliance
+
+> *“Not all code needs a purpose — some is just poetry with logic.”*
+
+---
+
+### 📊 GitHub Stats
+
+- Posting this sometime soon
+---
+
+<!-- 
+✨ This README is a living document. Expect it to evolve.
 -->
