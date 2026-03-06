@@ -17,9 +17,3 @@ My passion lies in crafting clever systems, solving weird problems, and building
 - 🧰 A lightweight Redis client in C++ with interactive CLI and command parsing
 
 > *“Not all code needs a purpose — some is just poetry with logic.”*
-
----
-
-### 📊 GitHub Stats
-Coming soon
----
