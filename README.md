@@ -6,14 +6,14 @@ My passion lies in crafting clever systems, solving weird problems, and building
 
 ---
 
-### 🧠 What I'm up to
-- 🎓 Final-year student of Computer Science and a sophmore in the business world  
-- 🔧 Currently refining my C++/Go skills & mastering low-level programming 
-- 🎮 Building distributed systems and databases for the  benefit of the AI world we are heading to.
+###  What I'm up to
+-  Final-year student of Computer Science and a sophmore in the business world  
+- Currently refining my C++/Go skills & mastering low-level programming 
+-  Building distributed systems and databases for the  benefit of the AI world we are heading to.
 ---
 
 ### 🚀 Projects & Explorations
-- 🧠 A custom Redis server built in C++ with command parsing, data persistence, and RESP protocol handling
-- 🧰 A lightweight Redis client in C++ with interactive CLI and command parsing
+-  A custom Redis server built in C++ with command parsing, data persistence, and RESP protocol handling
+-  A lightweight Redis client in C++ with interactive CLI and command parsing
 
 > *“Not all code needs a purpose — some is just poetry with logic.”*
